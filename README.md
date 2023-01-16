@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IsmaelRH1807.
 - 👀 I’m interested in Machine Learning, Data Science and Programming.
-- 🌱 I’m currently studying Software Engineering at National Polytechnic School.
+- 🌱 I’m a Software Engineer of the National Polytechnic School.
 - 📫 Contact me: ismael.rivas@epn.edu.ec / https://www.linkedin.com/in/ismael-rivas-hidalgo/.
 
 <!---
